@@ -19,6 +19,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+  background-color: #111;
 }
 
 .header {
@@ -392,10 +393,9 @@
 		border: none;
 		background: linear-gradient(180deg, #ff9a3c 0%, #ff7a1a 40%, #ff6800 100%);
 		box-shadow:
-		/* ichki yorug‘lik */
 			7.36px 7.36px 29.45px 0px #ffffff4d inset,
 			-7.36px -7.36px 29.45px 0px #ffffff4d inset,
-			/* yuqori highlight */ 0px 0.74px 0px 0px #f9731680,
+      0px 0.74px 0px 0px #f9731680,
 			0px 2px 0px 0px #f9731633,
 			0px 3px 0px 0px #f973161a,
 			/* pastki platforma */ 0px 10.31px 1.99px -10.31px #000000e5,
